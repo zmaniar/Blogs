@@ -1,7 +1,7 @@
 ---
 layout: post
-title: New - Make A Class Free
-tags: New Feature, Passes
+title: Allow Sign Ups From Facebook
+tags: Facebook
 ---
 
 Did you know that you can easily allow your customers to sign up for classes directly from your business's Facebook page?
@@ -10,7 +10,7 @@ Facebook recently made it much easier to create a Call-to-Action button on the 
 
 Here's an example from Punchpass client Inner Essence Yoga in Oviedo, FL.  This is a screenshot of their Facebook header.  See the Sign Up button?
 
-![](http://static1.squarespace.com/static/54ef8fbce4b0faa53f27edbf/t/552714a9e4b0e6a7fd125efc/1428624554570/?format=750w)
+<img src="{{ site.baseurl }}/img/blog/2015/4/10/01.jpg
 
 That button is linked to their Punchpass hosted schedule page.  Their customers can easily sign up for classes right from their page by clicking it. 
 
